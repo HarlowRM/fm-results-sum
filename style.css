@@ -185,6 +185,7 @@ li h3 {
 
 .continue-btn:hover {
     background-image: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
+    cursor: pointer;
 }
 
 /*MOBILE & SMALL SCREEN SETTINGS*/
